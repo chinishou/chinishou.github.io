@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_docusaurus=globalThis.webpackChunkmy_docusaurus||[]).push([[3490],{3490:(s,u,a)=>{a.d(u,{createInfoServices:()=>c.v});var c=a(1885);a(7960)}}]);
